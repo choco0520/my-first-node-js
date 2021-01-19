@@ -1,0 +1,310 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+|2,0,1609805313,,"q"
+:w
+|2,0,1609805311,,"w"
+:q]
+|2,0,1609805301,,"q]"
+:wq
+|2,0,1608592122,,"wq"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	 
+|3,1,36,0,1,0,1609759353," "
+
+# ファイルマーク:
+'0  1  0  ~/workspace/git-study/wise.me
+|4,48,1,0,1609805313,"~/workspace/git-study/wise.me"
+'1  1  0  ~/workspace/git-study/wise.me
+|4,49,1,0,1609805231,"~/workspace/git-study/wise.me"
+'2  1  0  ~/workspace/git-study/wise.me
+|4,50,1,0,1609805198,"~/workspace/git-study/wise.me"
+'3  1  0  ~/workspace/git-study/wise.me
+|4,51,1,0,1609805198,"~/workspace/git-study/wise.me"
+'4  6  33  ~/workspace/git-study/wise.md
+|4,52,6,33,1609769321,"~/workspace/git-study/wise.md"
+'5  6  0  ~/workspace/git-study/wise.md
+|4,53,6,0,1609769100,"~/workspace/git-study/wise.md"
+'6  7  0  ~/workspace/git-study/wise.md
+|4,54,7,0,1609768895,"~/workspace/git-study/wise.md"
+'7  7  0  ~/workspace/git-study/wise.md
+|4,55,7,0,1609768895,"~/workspace/git-study/wise.md"
+'8  7  0  ~/workspace/git-study/wise.md
+|4,56,7,0,1609768895,"~/workspace/git-study/wise.md"
+'9  7  0  ~/workspace/git-study/wise.md
+|4,57,7,0,1609768895,"~/workspace/git-study/wise.md"
+
+# ジャンプリスト (新しいものが先):
+-'  1  0  ~/workspace/git-study/wise.me
+|4,39,1,0,1609805313,"~/workspace/git-study/wise.me"
+-'  1  0  ~/workspace/git-study/wise.me
+|4,39,1,0,1609805231,"~/workspace/git-study/wise.me"
+-'  1  0  ~/workspace/git-study/wise.me
+|4,39,1,0,1609805198,"~/workspace/git-study/wise.me"
+-'  6  33  ~/workspace/git-study/wise.md
+|4,39,6,33,1609769321,"~/workspace/git-study/wise.md"
+-'  6  33  ~/workspace/git-study/wise.md
+|4,39,6,33,1609769321,"~/workspace/git-study/wise.md"
+-'  6  33  ~/workspace/git-study/wise.md
+|4,39,6,33,1609769321,"~/workspace/git-study/wise.md"
+-'  6  33  ~/workspace/git-study/wise.md
+|4,39,6,33,1609769321,"~/workspace/git-study/wise.md"
+-'  6  33  ~/workspace/git-study/wise.md
+|4,39,6,33,1609769321,"~/workspace/git-study/wise.md"
+-'  6  33  ~/workspace/git-study/wise.md
+|4,39,6,33,1609769321,"~/workspace/git-study/wise.md"
+-'  6  33  ~/workspace/git-study/wise.md
+|4,39,6,33,1609769321,"~/workspace/git-study/wise.md"
+-'  6  33  ~/workspace/git-study/wise.md
+|4,39,6,33,1609769321,"~/workspace/git-study/wise.md"
+-'  6  0  ~/workspace/git-study/wise.md
+|4,39,6,0,1609769100,"~/workspace/git-study/wise.md"
+-'  6  0  ~/workspace/git-study/wise.md
+|4,39,6,0,1609769100,"~/workspace/git-study/wise.md"
+-'  6  0  ~/workspace/git-study/wise.md
+|4,39,6,0,1609769100,"~/workspace/git-study/wise.md"
+-'  6  0  ~/workspace/git-study/wise.md
+|4,39,6,0,1609769100,"~/workspace/git-study/wise.md"
+-'  6  0  ~/workspace/git-study/wise.md
+|4,39,6,0,1609769100,"~/workspace/git-study/wise.md"
+-'  6  0  ~/workspace/git-study/wise.md
+|4,39,6,0,1609769100,"~/workspace/git-study/wise.md"
+-'  6  0  ~/workspace/git-study/wise.md
+|4,39,6,0,1609769100,"~/workspace/git-study/wise.md"
+-'  6  0  ~/workspace/git-study/wise.md
+|4,39,6,0,1609769100,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609769063,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609768895,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609768895,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609768895,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609768895,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609768895,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609768895,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609768895,"~/workspace/git-study/wise.md"
+-'  7  0  ~/workspace/git-study/wise.md
+|4,39,7,0,1609768895,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1609768024,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1609759365,"~/workspace/git-study/README.md"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/git-study/wise.me
+	*	1609805311	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/workspace/git-study/wise.md
+	*	1609769319	0
+	"	6	33
+	^	6	6
+	.	6	3
+	+	6	42
+	+	7	0
+	+	6	3
+	m	1	0
+	q	1	0
+
+> ~/workspace/git-study/README.md
+	*	1609759353	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> /tmp/crontab.FYfrSP/crontab
+	*	1608592113	0
+	"	23	57
+	^	23	58
+	.	23	57
+	+	1	54
+	+	23	57
+
+> /tmp/tutorHIoqab
+	*	1606803594	0
+	"	121	0
+	^	110	0
+	.	110	0
+	+	83	59
+	+	114	0
+	+	108	14
+	+	110	0
+
+> ~/workspace/test.txt
+	*	1606803178	0
+	"	1	0
+
+> ~/workspace/.profile
+	*	1606803056	0
+	"	1	0
